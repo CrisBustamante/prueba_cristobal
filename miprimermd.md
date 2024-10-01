@@ -21,9 +21,9 @@ def hola_mundo():
 
 [Enlace a una URL externa](https://www.google.com)
 
-[Enlace a otro fichero Markdown](./otro_fichero.md)
+[Enlace a otro fichero Markdown](./README.md)
 
-![Imagen de ejemplo](https://via.placeholder.com/150)
+![Imagen de ejemplo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdI5h6LZxis-xvMA-mioIFBUdBqrofceIn1A&s)
 
 | Columna 1 | Columna 2 | Columna 3 |
 | --------- | --------- | --------- |
